@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "combo-box-differentiate-user-input", "combo-box-differentiate-user-input\combo-box-differentiate-user-input.csproj", "{63DFA880-9D96-4DBF-82D5-768CC448D1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63DFA880-9D96-4DBF-82D5-768CC448D1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DFA880-9D96-4DBF-82D5-768CC448D1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DFA880-9D96-4DBF-82D5-768CC448D1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DFA880-9D96-4DBF-82D5-768CC448D1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {728D5682-0A7A-4F24-9A20-941305065681}
+	EndGlobalSection
+EndGlobal
